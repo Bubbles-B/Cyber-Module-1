@@ -52,12 +52,5 @@ A full mesh would need 36 separate cables (or wireless links) for nine devices, 
 <img width="1227" height="617" alt="step5_fixed" src="https://github.com/user-attachments/assets/32e2d765-67c0-4c36-971f-e04c110b73cc" />
 
 
-##
-
-## Step 6: Finish with the TryHackMe room
-
-**Task:** Once the steps above are done, practise the same ideas in a guided, hands-on room. Log in to your TryHackMe account, open the room, and work through every task until it shows 100% complete.   When it shows 100%, take a screenshot of the completed room and one of your TryHackMe profile page (so your username shows).
-
-
 
 
