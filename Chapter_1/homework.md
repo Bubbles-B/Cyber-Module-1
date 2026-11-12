@@ -14,3 +14,6 @@
 **Task:** Without looking back at the diagram on the chapter page, draw all three topologies from memory. Then check your drawings against the diagram and write down one advantage and one disadvantage for each.
 
 <img width="932" height="603" alt="image" src="https://github.com/user-attachments/assets/c19b701d-9c1b-441f-bcb1-992cc80eaef6" />
+
+
+<img width="951" height="795" alt="image" src="https://github.com/user-attachments/assets/36b88440-0caa-4643-b631-0fb197d232d3" />
