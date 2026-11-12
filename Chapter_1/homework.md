@@ -16,4 +16,48 @@
 <img width="932" height="603" alt="image" src="https://github.com/user-attachments/assets/c19b701d-9c1b-441f-bcb1-992cc80eaef6" />
 
 
-<img width="951" height="795" alt="image" src="https://github.com/user-attachments/assets/36b88440-0caa-4643-b631-0fb197d232d3" />
+<img width="926" height="787" alt="image" src="https://github.com/user-attachments/assets/26803f7a-3cc8-47f9-abe4-0ea130603ac6" />
+
+
+<img width="932" height="778" alt="image" src="https://github.com/user-attachments/assets/d055a33e-589c-421e-a850-dddde8505bab" />
+
+
+##
+
+## Step 3: Do the mesh math for your own setup
+
+**Task:** Count the devices connected to your own home network right now (phone, laptop, smart TV, router, etc.). Calculate n(n-1)/2 for that number. Then ask yourself: would you ever actually wire your home as a full mesh?
+
+My home network: router, smart TV, my phone, my sister’s phone, my PC, my sister’s PC, laptop, network printer and alarm = 9 devices.
+
+** 9 x (9 - 1) / 2 = 9 x 8 / 2 = 36 links **
+
+A full mesh would need 36 separate cables (or wireless links) for nine devices, and each device would need eight network ports.
+
+##
+
+## Step 4: Mark north-south vs. east-west
+
+**Task:** Pull up any simple network diagram (or sketch your own) with a router, a firewall, and two internal servers. Draw where north-south traffic crosses the boundary, then draw a separate line for east-west traffic between the two servers.
+
+<img width="668" height="752" alt="image" src="https://github.com/user-attachments/assets/5fc98035-a9c3-4f50-b15f-166fa6a55354" />
+
+
+##
+
+## Step 5: Name the topology
+
+**Task:** Name each: (a) a company's ten branch offices each connect only to head office; (b) two buildings joined by one dedicated fiber link; (c) every access switch connects to every core switch in a data center; (d) a small company uses one switch for both core and distribution; (e) a network that mixes a star in each building with a mesh between buildings.
+
+<img width="771" height="390" alt="image" src="https://github.com/user-attachments/assets/6965129b-f5a3-4526-8a70-29f19064a832" />
+
+
+##
+
+## Step 6: Finish with the TryHackMe room
+
+**Task:** Once the steps above are done, practise the same ideas in a guided, hands-on room. Log in to your TryHackMe account, open the room, and work through every task until it shows 100% complete.   When it shows 100%, take a screenshot of the completed room and one of your TryHackMe profile page (so your username shows).
+
+
+
+
