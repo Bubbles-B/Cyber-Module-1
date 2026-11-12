@@ -49,7 +49,7 @@ A full mesh would need 36 separate cables (or wireless links) for nine devices, 
 
 **Task:** Name each: (a) a company's ten branch offices each connect only to head office; (b) two buildings joined by one dedicated fiber link; (c) every access switch connects to every core switch in a data center; (d) a small company uses one switch for both core and distribution; (e) a network that mixes a star in each building with a mesh between buildings.
 
-<img width="771" height="390" alt="image" src="https://github.com/user-attachments/assets/6965129b-f5a3-4526-8a70-29f19064a832" />
+<img width="1227" height="617" alt="step5_fixed" src="https://github.com/user-attachments/assets/32e2d765-67c0-4c36-971f-e04c110b73cc" />
 
 
 ##
