@@ -30,7 +30,7 @@
 
 My home network: router, smart TV, my phone, my sister’s phone, my PC, my sister’s PC, laptop, network printer and alarm = 9 devices.
 
-** 9 x (9 - 1) / 2 = 9 x 8 / 2 = 36 links **
+**9 x (9 - 1) / 2 = 9 x 8 / 2 = 36 links**
 
 A full mesh would need 36 separate cables (or wireless links) for nine devices, and each device would need eight network ports.
 
