@@ -40,7 +40,7 @@ A full mesh would need 36 separate cables (or wireless links) for nine devices, 
 
 **Task:** Pull up any simple network diagram (or sketch your own) with a router, a firewall, and two internal servers. Draw where north-south traffic crosses the boundary, then draw a separate line for east-west traffic between the two servers.
 
-<img width="668" height="752" alt="image" src="https://github.com/user-attachments/assets/5fc98035-a9c3-4f50-b15f-166fa6a55354" />
+<img width="720" height="821" alt="step4_full_fixed" src="https://github.com/user-attachments/assets/658a4c4b-70c7-4867-a008-3fc30a46319f" />
 
 
 ##
